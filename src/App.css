@@ -1,10 +1,15 @@
+/* iframe#webpack-dev-server-client-overlay {
+  display: none !important;
+} */
+
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1a1b1f;
+  /* height: "100%"; */
+  min-height: "100vh";
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -22,10 +27,6 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
 }
 
 @keyframes App-logo-spin {

@@ -1,23 +1,45 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Header from "./components/Header";
+import Home from "./components/pages/Home";
+import Contact from "./components/pages/Contact";
+import About from "./components/pages/About";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+      <BrowserRouter>
+        <Header />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/about" element={<About />} />
+        </Routes>
+        <Footer />
+      </BrowserRouter>
+      {/* <h1
+        style={{
+          color: "#45FFCA",
+          display: "flex",
+          alignItems: "center",
+          marginTop: "-8px",
+        }}
+      >
+        Welcome To
+        <Typography
+          color="primary"
+          fontWeight={800}
+          sx={{ color: "#FFB000", fontSize: "30px", marginLeft: "5px" }}
         >
-          Learn React
-        </a>
-      </header>
+          ProNote
+        </Typography>
+      </h1> */}
+
+      {/* <Home /> */}
+
+      {/* <NoteApi />
+      <Footer /> */}
     </div>
   );
 }
