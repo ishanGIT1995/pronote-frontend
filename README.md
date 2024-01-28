@@ -21,4 +21,27 @@ A Note(ToDo) application allows you to manage your notes efficiently developed u
 - **SQL Server:** To store data.
 
 ## ScreenShots
-![Image Alt Text](https://drive.google.com/file/d/1Jra4rdsHDS0sXRiFmZmi9bRT_Re_iuIL/view?usp=sharing)
+### AboutPage
+![AboutPage](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/bcb5a7c6-e082-4b91-877c-b112cf5877db)
+
+### ContactPage
+![ContactPage](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/5c364ff1-b51b-4507-8658-f56827b64f27)
+
+### HomePage-1
+![HomePage-1](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/6a1011b6-0658-4075-8a38-0f8b00864e19)
+
+### HomePage-2
+![HomePage-2](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/51329752-2539-4beb-a491-43c128c70737)
+
+### HomePage-3
+![HomePage-3](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/2249b766-05e2-4cfe-a5fd-28d004b9234d)
+
+### CreateNoteView
+![CreateNoteView](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/5818eae3-c1a0-466b-ab6d-c17d2eae25a4)
+
+
+
+
+
+
+
