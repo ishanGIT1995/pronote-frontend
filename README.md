@@ -19,3 +19,6 @@ A Note(ToDo) application allows you to manage your notes efficiently developed u
 - **C#:** Developed the application's backend.
 - **ASP.NET Core:** Used .NET 6 API to develop the API of the application.
 - **SQL Server:** To store data.
+
+## ScreenShots
+![Image Alt Text](https://drive.google.com/file/d/1Jra4rdsHDS0sXRiFmZmi9bRT_Re_iuIL/view?usp=sharing)
