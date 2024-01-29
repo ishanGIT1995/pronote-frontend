@@ -40,6 +40,29 @@ Backend
 ### CreateNoteView
 ![CreateNoteView](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/5818eae3-c1a0-466b-ab6d-c17d2eae25a4)
 
+### TabView-1
+![TabView-1](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/69047a71-8c82-4500-bd7c-f1f9f819f5ad)
+
+### TabView-2
+![TabView-2](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/81549a8f-e452-4b00-a73b-1160f17cde79)
+
+### TabView-3
+![TabView-3](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/e7fbe58d-48ae-4301-abfa-7d4b980c0f95)
+
+### MobileView-1
+![MobileView-1](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/fb422374-708c-4654-8daf-9b568938cb41)
+
+### MobileView-2
+![MobileView-2](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/a88f4fb3-97e7-477e-a0bd-69b50026c0ca)
+
+### MobileView-3
+![MobileView-3](https://github.com/ishanGIT1995/pronote-frontend/assets/104643461/f894570b-c93b-466a-a525-cd5fe031ced3)
+
+
+
+
+
+
 
 
 
